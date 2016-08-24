@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BorrowerList()
+comment0.text=\n\ Sets\ the\ default\ constructor\ of\ the\ BorrowerList\ class.\n\ Sets\ defines\ a\ new\ ArrayList\ of\ type\ Borrower\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getBorrowerList()
+comment1.text=\n\ returns\ the\ collection\ of\ the\ ArrayList\ of\ Borrower\n
+comment2.params=index
+comment2.target=java.lang.String\ getBorrowerName(int)
+comment2.text=\n\ get\ method\ to\ return\ the\ name\ of\ the\ borrower\ throught\ the\ ArrayList\n
+comment3.params=
+comment3.target=void\ listBorrowers()
+comment3.text=\n\ method\ to\ print\ all\ of\ the\ books\ information\ in\ the\ library\n
+comment4.params=borrower
+comment4.target=void\ setBorrower(Borrower)
+comment4.text=\n\ set\ method\ to\ add\ the\ object\ of\ Borrower\ to\ the\ ArralyList\ of\ the\ Book\n
+numComments=5

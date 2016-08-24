@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Book()
+comment0.text=\n\ Sets\ the\ default\ constructor\ of\ the\ Book\ class.\n\ Sets\ name,\ author\ and\ category\ as\ an\ empty\ String.\n
+comment1.params=bookName\ bookAuthor\ bookCategory
+comment1.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Non-default\ constructor,\ sets\ the\ name\ of\ the\ book,\ age\ and\ ID\ of\ the\ person.\n\ name,\ age\ and\ ID\ are\ taken\ in\ as\ a\ parameter.\ \n
+comment2.params=
+comment2.target=java.lang.String\ getBookName()
+comment2.text=\n\ Get\ method\ to\ return\ the\ book's\ name\n
+comment3.params=
+comment3.target=java.lang.String\ getBookAuthor()
+comment3.text=\n\ Get\ method\ to\ return\ the\ borrower's\ name\n
+comment4.params=
+comment4.target=java.lang.String\ getBookCategory()
+comment4.text=\n\ Get\ method\ to\ return\ the\ category\ of\ the\ book\n
+comment5.params=
+comment5.target=java.lang.String\ bookDetail()
+comment5.text=\n\ Get\ method\ store\ each\ of\ the\ variables,name,\ author\ and\ category\ are\ stored\ and\ return\ as\ String()\n
+comment6.params=
+comment6.target=java.lang.String\ bookDetail2()
+comment6.text=\n\ Get\ method\ store\ each\ of\ the\ variables,name,\ author\ and\ category\ are\ stored\ and\ return\ as\ String()\n
+numComments=7

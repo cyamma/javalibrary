@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Booklist()
+comment0.text=\n\ Sets\ the\ default\ constructor\ of\ the\ booklist\ class.\n\ Creates\ new\ ArrayList\ for\ to\ store\ the\ book\n
+comment1.params=index
+comment1.target=java.lang.String\ getAuthorName(int)
+comment1.text=\n\ get\ method\ to\ access\ the\ author\ of\ the\ book\ and\ conveert\ to\ String\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getBookList()
+comment2.text=\n\ get\ method\ to\ get\ the\ collection\ of\ the\ book\n
+comment3.params=index
+comment3.target=java.lang.String\ getBook(int)
+comment3.text=\n\ method\ to\ print\ all\ of\ the\ books\ and\ their\ detail\n
+comment4.params=index
+comment4.target=java.lang.String\ getBookCategory(int)
+comment4.text=\n\ get\ method\ to\ access\ the\ rating\ of\ the\ book\ and\ conveert\ to\ String\n
+comment5.params=index
+comment5.target=java.lang.String\ getBookName(int)
+comment5.text=\n\ get\ method\ to\ access\ the\ name\ of\ the\ book\ and\ conveert\ to\ String\n
+comment6.params=
+comment6.target=void\ printAllBook()
+comment6.text=\n\ method\ to\ print\ all\ of\ the\ books\ information\ in\ the\ library\n
+comment7.params=book
+comment7.target=void\ setBook(Book)
+comment7.text=\n\ set\ method\ to\ add\ the\ object\ book\ to\ the\ Arraly\:ist\ of\ the\ Book\n
+numComments=8
